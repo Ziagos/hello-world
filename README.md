@@ -1,2 +1,2 @@
 # hello-world
-Write a short description.
+Qui si impara
